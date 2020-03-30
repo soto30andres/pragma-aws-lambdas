@@ -1,0 +1,10 @@
+C:\Users\57315\Documents\LambdaExample\src\main\java\handler\DeleteClient.java
+C:\Users\57315\Documents\LambdaExample\src\main\java\domain\ResponseClass.java
+C:\Users\57315\Documents\LambdaExample\src\main\java\handler\GetClient.java
+C:\Users\57315\Documents\LambdaExample\src\main\java\domain\ApiGatewayResponse.java
+C:\Users\57315\Documents\LambdaExample\src\main\java\handler\ListClients.java
+C:\Users\57315\Documents\LambdaExample\src\main\java\domain\RequestClass.java
+C:\Users\57315\Documents\LambdaExample\src\main\java\handler\UpdateClient.java
+C:\Users\57315\Documents\LambdaExample\src\main\java\model\Client.java
+C:\Users\57315\Documents\LambdaExample\src\main\java\configuration\DynamoDBAdapter.java
+C:\Users\57315\Documents\LambdaExample\src\main\java\handler\CreateClient.java

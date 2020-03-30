@@ -1,0 +1,11 @@
+domain\ApiGatewayResponse.class
+model\Client.class
+configuration\DynamoDBAdapter.class
+domain\RequestClass.class
+handler\CreateClient.class
+handler\UpdateClient.class
+handler\ListClients.class
+handler\DeleteClient.class
+handler\GetClient.class
+domain\ApiGatewayResponse$Builder.class
+domain\ResponseClass.class
